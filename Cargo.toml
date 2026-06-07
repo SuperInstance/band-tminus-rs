@@ -2,10 +2,8 @@
 name = "band-tminus-rs"
 version = "0.1.0"
 edition = "2021"
-description = "T-minus event simulation core: agents predict musical events locally without a shared clock"
+description = "T-minus event simulation core for Self-Improving Band"
 license = "MIT"
 repository = "https://github.com/SuperInstance/band-tminus-rs"
-keywords = ["music", "timing", "prediction", "agent", "clock"]
+keywords = ["midi", "music", "simulation", "event", "tminus"]
 categories = ["multimedia::audio", "simulation"]
-
-[dependencies]
